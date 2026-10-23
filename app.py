@@ -24,7 +24,7 @@ def health():
 @app.get("/api/info")
 def info():
     return jsonify(
-        project="Jaitly",
+        project="EduInformatika",
         course="Cloud Computing",
         code="PTI 2802",
         meeting=3,
