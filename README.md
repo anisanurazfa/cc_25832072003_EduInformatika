@@ -18,6 +18,7 @@ Menyediakan sarana pembelajaran Informatika berbasis web yang memudahkan siswa S
 ## Fitur Utama
 * **Materi Pembelajaran:** Akses materi berbasis teks maupun dokumen PDF.
 * **Pencarian Topik:** Kemudahan mencari dan memilih materi berdasarkan topik Informatika.
+* **AI Tutor Interaktif**: Asisten cerdas berbasis AI untuk membantu siswa memahami konsep sulit dan menjawab pertanyaan materi secara mandiri.
 * **Kuis & Evaluasi:** Kuis pilihan ganda dengan sistem penilaian otomatis.
 * **Riwayat Nilai:** Catatan hasil kuis siswa untuk memantau perkembangan belajar.
 * **Manajemen Pengajar:** Panel khusus pengajar untuk mengunggah materi dan mengelola kuis.
